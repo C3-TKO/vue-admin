@@ -174,7 +174,7 @@ Some of the custom components examples can be found in the [**magazines views**]
 
 Nothing could make us happier than the community involvement into this framework, so if you feel like contributing or just sharing an idea for us to improve the library, please do not hesitate to [**fork vue-admin-js**](https://github.com/Cambalab/vue-admin) from our repository, comment or open an issue with the available labels.
 
-> *If you're going to submit a pull request to vue-admin make sure it targets the `develop` branch and uses our Pull Request template.*
+> *If you're going to submit a pull request to vue-admin make sure it targets the `master` branch and uses our Pull Request template.*
 
 ## Starting a new project
 
